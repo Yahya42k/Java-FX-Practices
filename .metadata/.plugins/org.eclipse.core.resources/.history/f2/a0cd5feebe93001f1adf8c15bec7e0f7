@@ -1,0 +1,7 @@
+package application;
+
+public class Controller {
+
+	//ImageView is a node used for painting images loaded with images.
+	
+}
